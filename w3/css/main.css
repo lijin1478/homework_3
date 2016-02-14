@@ -1,0 +1,14 @@
+.intro-header {
+    background: url(../img/1900x1000.jpg);
+    background-size: cover;
+}
+
+.intro-header .container h1 {
+    margin: 0;
+    color: rgba(255, 255, 366, 0.8);
+    font-size: 100px;
+}
+
+.intro-header .container h3 {
+    font-size: 25px;
+}
